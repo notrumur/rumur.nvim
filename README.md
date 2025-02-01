@@ -1,4 +1,4 @@
-# kickstart.nvim
+# rumur.nvim
 
 ## Introduction
 
